@@ -1,2 +1,2 @@
 # Primeira-entrega-de-Projeto
-Desafio Git/GitHub
+Desafio Git/GitHub da DIO
